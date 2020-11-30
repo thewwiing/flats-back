@@ -1,0 +1,10 @@
+{
+  "name": "flats-back",
+  "version": "1.0.0",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "start": "json-server -p 9999 --watch db.json"
+  }
+}
